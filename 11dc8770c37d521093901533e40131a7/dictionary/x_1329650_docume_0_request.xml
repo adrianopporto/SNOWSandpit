@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="65dcc770c37d521093901533e4013102" extends="sn_creatorstudio_task" label="Document Approvals Request" max_length="40" name="x_1329650_docume_0_request" type="collection"/>
+</database>
